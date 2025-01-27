@@ -1,0 +1,2 @@
+Here all problems is solved given by Ombhartiya in Gihub , this all problems are in leetcode so i solved in leetcode and as well in 
+vs code as well so i have a record of it.
